@@ -1,2 +1,3 @@
 Print current directory name
 list contents in directory
+Go to home directory
